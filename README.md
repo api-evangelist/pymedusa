@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Medusa (TV) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pymedusa.com/
+Medusa (TV) is an open-source automated video library manager designed for TV show enthusiasts. It continuously monitors your favorite series for new episodes, automatically downloading, organizing, and renaming them according to your preferences. Built with Python, it integrates with popular indexers, download clients, and media servers, providing a seamless experience for keeping your collection up to date without manual effort.
+
+**Areas:** Company · TV · Media · Automation · OpenSource · Python
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pymedusa.com/)
+- [Documentation](https://github.com/pymedusa/Medusa#readme)
+- [Support](https://github.com/pymedusa/Medusa/issues)
+- [GitHub](https://github.com/pymedusa)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pymedusa/](https://apis.io/providers/pymedusa/).
